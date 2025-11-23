@@ -4,6 +4,7 @@ emscripten-video-decoder
 - [ ] `.wmv`
 - [ ] `.rmvb`
 - [ ] `.ts`
+ - https://github.com/xqq/mpegts.js 
 - [ ] `.flv`
  - https://github.com/bilibili/flv.js
 - [ ] MJPEG
